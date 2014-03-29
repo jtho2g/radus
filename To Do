@@ -1,0 +1,24 @@
+To Do
+
+-Link site externaly
+
+-Define image sizes
+
+-Fix W3C complaint error   http://validator.w3.org/check?uri=http%3A%2F%2Fradusclothing.co.uk%2F
+
+-
+
+
+
+
+
+
+
+"A total of 11 errors and 2 warnings were found on the 1 pages tested.
+No pages are W3C compliant. Because there are errors in the code, some web browsers may not be able to read this website correctly and it may not always display correctly.
+Resolve the validation errors that are listed in the table below. These errors are preventing this website from being fully W3C compliant. Extra detail
+This website was detected as being HTML5
+All of the tested pages appear to use semantic HTML. This is excellent.
+None of the tested pages of this site use tables for layout. This is excellent, as using tables for layout is not necessary and they should only contain tabular data. A well built website should use div elements and CSS to create the desired layout.
+"
+

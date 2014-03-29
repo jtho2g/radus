@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://store.saltsurf.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://store.saltsurf.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://store.saltsurf.com/collections/clothing.atom"/>
+  <title>SALT SURF</title>
+  <updated>2013-07-18T12:44:54-10:00</updated>
+  <author>
+    <name>SALT SURF</name>
+  </author>
+  <entry>
+    <id>http://store.saltsurf.com/products/147694674</id>
+    <published>2013-07-18T12:44:54-10:00</published>
+    <updated>2013-07-18T12:44:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-surf-trunk-silver"/>
+    <title>SALT Surf Trunk - Silver</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Boardshort_silver_front.jpg?v=1374216704" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              62.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>The ultra durable construction of this pair of shorts and their classic fit, make them the pair you will hang onto for a long time.  Made of ultra waterproof Taslan nylon and sewn together with triple stitch heavyweight nylon thread, these shorts are made to last.  More fitted throughout the short and a 15" outseam.  Velcro fly, mesh lined rear pocket, snap closures on back pocket and front waistline.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>surf trunk</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147694674</id>
+      <title>28</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKSILVER</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147694674</id>
+      <title>30</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKSILVER</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147694674</id>
+      <title>32</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKSILVER</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147694674</id>
+      <title>34</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKSILVER</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147700833</id>
+    <published>2013-07-18T12:44:54-10:00</published>
+    <updated>2013-07-18T12:44:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-surf-trunk-blue"/>
+    <title>SALT Surf Trunk - Blue</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Boardshort_blue_front.jpg?v=1374217123" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              62.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>The ultra durable construction of this pair of shorts and their classic fit, make them the pair you will hang onto for a long time.  Made of ultra waterproof Taslan nylon and sewn together with triple stitch heavyweight nylon thread, these shorts are made to last.  More fitted throughout the short and a 15" outseam.  Velcro fly, mesh lined rear pocket, snap closures on back pocket and front waistline.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>surf trunk</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147700833</id>
+      <title>28</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKBLUE</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147700833</id>
+      <title>30</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKBLUE</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147700833</id>
+      <title>32</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKBLUE</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147700833</id>
+      <title>34</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKBLUE</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147699799</id>
+    <published>2013-07-18T12:44:54-10:00</published>
+    <updated>2013-07-18T12:44:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-surf-trunk-tan"/>
+    <title>SALT Surf Trunk - Tan</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Boardshort_tan_front.jpg?v=1374216235" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              62.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>The ultra durable construction of this pair of shorts and their classic fit, make them the pair you will hang onto for a long time.  Made of ultra waterproof Taslan nylon and sewn together with triple stitch heavyweight nylon thread, these shorts are made to last.  More fitted throughout the short and a 15" outseam.  Velcro fly, mesh lined rear pocket, snap closures on back pocket and front waistline.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>surf trunk</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147699799</id>
+      <title>28</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKTAN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147699799</id>
+      <title>30</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKTAN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147699799</id>
+      <title>32</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKTAN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147699799</id>
+      <title>34</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>SSTRUNKTAN</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147552818</id>
+    <published>2013-07-18T12:44:54-10:00</published>
+    <updated>2013-07-18T12:44:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/marble-tee-white"/>
+    <title>Marble Tee - White</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/MAR_BAIL_WHITE.jpg?v=1374215181" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>100% cotton shirt, treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white shirt with faded black print.    </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552818</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552818</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552818</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552818</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552818</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147552870</id>
+    <published>2013-07-18T12:44:54-10:00</published>
+    <updated>2013-07-18T12:44:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/marble-tee-navy"/>
+    <title>Marble Tee - Navy</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/MAR_BAIL_NAVY.jpg?v=1374015101" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>100% cotton shirt, treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, navy blue with black print.    </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552870</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552870</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552870</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552870</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147552870</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147546882</id>
+    <published>2013-07-18T12:44:54-10:00</published>
+    <updated>2013-07-18T12:44:54-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/la-plage-tee-red"/>
+    <title>La Plage Tee - Red</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/La_plage_red.jpg?v=1374010412" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Each 100% cotton shirt is treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white shirt with red print.  </p>
+<p>The shirt reads "LA PLAGE AVEC SALT SURF".  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147546882</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147546882</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147546882</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147546882</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147546882</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147547229</id>
+    <published>2013-07-18T12:44:53-10:00</published>
+    <updated>2013-07-18T12:44:53-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/face-tee-indigo"/>
+    <title>Face Tee - Indigo</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/GAB_Face_indigo.jpg?v=1374215789" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>100% cotton shirt, treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white shirt with indigo print.  </p>
+<p>The illustration was created in collaboration with local Brooklyn, NY artist, Gabriele Baldotto.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547229</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547229</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547229</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547229</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547229</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147545639</id>
+    <published>2013-07-18T12:44:53-10:00</published>
+    <updated>2013-07-18T12:44:53-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/la-plage-tee-mustard"/>
+    <title>La Plage Tee - Mustard</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/BEACH_TAN.jpg?v=1374010237" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Each 100% cotton shirt is treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white shirt with mustard tan print.  </p>
+<p>The shirt reads "LA PLAGE AVEC SALT SURF".  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147545639</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147545639</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147545639</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147545639</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147545639</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147539830</id>
+    <published>2013-07-18T12:44:53-10:00</published>
+    <updated>2013-07-18T12:44:53-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/la-plage-tee-black"/>
+    <title>La Plage Tee - Black</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/beach_BLACK.jpg?v=1374009453" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Each 100% cotton shirt is treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, black shirt with white print.  </p>
+<p><span>The shirt reads "LA PLAGE AVEC SALT SURF".  </span></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147539830</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147539830</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147539830</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147539830</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147539830</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/147547039</id>
+    <published>2013-07-18T12:44:26-10:00</published>
+    <updated>2013-07-18T12:44:26-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/face-tee-black"/>
+    <title>Face Tee - Black</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/GAB_Face_black.jpg?v=1374215769" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>100% cotton shirt, treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white shirt with black print.  </p>
+<p>The illustration was created in collaboration with local Brooklyn, NY artist, Gabriele Baldotto.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547039</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547039</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547039</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547039</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/147547039</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/129073247</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/beanie-blue"/>
+    <title>Electric Blue Beanie</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/beanie_blue.jpg?v=1364790857" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              24.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div style="cursor: text; padding-top: 4px; padding-right: 4px; padding-bottom: 50px; padding-left: 4px; font-family: Helvetica, Arial, sans-serif; background-color: #ffffff; font-size: 14px; line-height: 1.5; overflow-y: hidden; margin: 0px;">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 1.2;">Heavy weight, acrylic electric blue beanie.  </p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 1.2;">Exterior label reads "NEW YORK CITY / SALT / MADE FOR THE OCEAN"</p>
+</div></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>hat</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/129073247</id>
+      <title>Electric Blue Beanie</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/129073287</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/beanie-orange"/>
+    <title>Neon Orange Beanie</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/beanie_orange.jpg?v=1364797536" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              24.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div style="cursor: text; padding-top: 4px; padding-right: 4px; padding-bottom: 50px; padding-left: 4px; font-family: Helvetica, Arial, sans-serif; background-color: #ffffff; font-size: 14px; line-height: 1.5; overflow-y: hidden; margin: 0px;"> <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 1.2;">Heavy weight,&nbsp;acrylic&nbsp;neon orange beanie. &nbsp;</p> <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 1.2;">Exterior label reads "NEW YORK CITY / SALT / MADE FOR THE OCEAN"</p> </div> <p>&nbsp;</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>hat</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/129073287</id>
+      <title>Neon Orange Beanie</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/129073463</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/black-beanie"/>
+    <title>Black Beanie</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/beanie_black.jpg?v=1364790741" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              24.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Heavy weight,&nbsp;acrylic&nbsp;black beanie. &nbsp;</p> <p>Exterior label reads "NEW YORK CITY / SALT / MADE FOR THE OCEAN"</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>hat</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/129073463</id>
+      <title>Black Beanie</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/129073405</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/beanie-charcoal"/>
+    <title>Charcoal Beanie</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/beanie_charcoal.jpg?v=1364790796" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              24.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div style="cursor: text; padding-top: 4px; padding-right: 4px; padding-bottom: 50px; padding-left: 4px; font-family: Helvetica, Arial, sans-serif; background-color: #ffffff; font-size: 14px; line-height: 1.5; overflow-y: hidden; margin: 0px;"> <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 1.2;">Heavy weight,&nbsp;acrylic charcoal beanie. &nbsp;</p> <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 1.2;">Exterior label reads "NEW YORK CITY / SALT / MADE FOR THE OCEAN"</p> </div></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>hat</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/129073405</id>
+      <title>Charcoal Beanie</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/127429166</id>
+    <published>2013-02-19T10:08:14-10:00</published>
+    <updated>2013-02-19T10:08:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/logo-sweatshirt"/>
+    <title>Logo Sweatshirt</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Logo_Sweatshirt.jpg?v=1363660486" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              42.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Poly Cotton blend fleece sweatshirt.&nbsp;</p>
+<p>Supersoft, classic crew neck sweatshirt with hand printed SALT logo.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429166</id>
+      <title>small</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429166</id>
+      <title>medium</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429166</id>
+      <title>large</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429166</id>
+      <title>x-large</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/127428766</id>
+    <published>2013-02-19T10:08:14-10:00</published>
+    <updated>2013-02-19T10:08:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/varsity-sweatshirt"/>
+    <title>Varsity Sweatshirt</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Logo_Sweatshirt_tag.jpg?v=1365465205" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              68.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Supersoft classic&nbsp;poly-cotton&nbsp;crew neck sweatshirt, with hand sewn varsity letters. &nbsp;Exterior label reads "NEW YORK CITY / SALT / MADE FOR THE OCEAN".</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127428766</id>
+      <title>small</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>384</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127428766</id>
+      <title>medium</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>384</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127428766</id>
+      <title>large</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>384</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127428766</id>
+      <title>x-large</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>384</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/127429398</id>
+    <published>2013-02-19T10:08:14-10:00</published>
+    <updated>2013-02-19T10:08:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/logo-tee-black"/>
+    <title>Logo Tee - Black</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Logo_Tee_Black.jpg?v=1364794128" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Each 100% cotton shirt is treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white SALT logo.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429398</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429398</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429398</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429398</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429398</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/127429948</id>
+    <published>2013-02-19T10:08:14-10:00</published>
+    <updated>2013-02-19T10:08:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/logo-tee-white"/>
+    <title>Logo Tee - White</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Logo_Tee_White.jpg?v=1364792822" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Each 100% cotton shirt is treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, black SALT logo.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429948</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429948</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429948</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429948</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429948</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/127429814</id>
+    <published>2013-02-19T10:08:14-10:00</published>
+    <updated>2013-02-19T10:08:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/logo-tee-silver"/>
+    <title>Logo Tee - Silver</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Logo_Tee_Silver.jpg?v=1364792780" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Each 100% cotton shirt is treated with an enzyme wash that simulates 40 laundry cycles, giving it a super soft feel.  The fit features a slightly more open neckline and looser fitting body.  Hand printed, soft to the touch, white SALT logo.  </p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429814</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429814</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429814</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429814</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127429814</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/127430118</id>
+    <published>2013-02-19T10:08:14-10:00</published>
+    <updated>2013-02-19T10:08:14-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/north-sea-tee"/>
+    <title>North Sea Tee</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/North_Sea_Tee.jpg?v=1363660991" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Clothing<br />
+            <strong>Price: </strong>
+              30.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p> </p>
+<p>In collaboration with photographer Corey Arnold, this tee shows one of Arnolds photographs that he took as he traveled on a fishing boat across The North Sea in Denmark.  </p>
+<p>100% Cotton. </p>
+<p>Supersoft, classic crew neck tee.</p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127430118</id>
+      <title>x-small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127430118</id>
+      <title>small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127430118</id>
+      <title>medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127430118</id>
+      <title>large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/127430118</id>
+      <title>x-large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+</feed>

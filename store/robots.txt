@@ -1,0 +1,13 @@
+# we use Shopify as our ecommerce platform
+
+User-agent: *
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /account
+Disallow: /collections/*+*
+Disallow: /blogs/*+*
+Sitemap: http://store.saltsurf.com/sitemap.xml
+
+User-agent: Nutch
+Disallow: /

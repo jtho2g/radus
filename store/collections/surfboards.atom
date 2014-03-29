@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://store.saltsurf.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://store.saltsurf.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://store.saltsurf.com/collections/surfboards.atom"/>
+  <title>SALT SURF</title>
+  <updated>2013-02-19T10:19:08-10:00</updated>
+  <author>
+    <name>SALT SURF</name>
+  </author>
+  <entry>
+    <id>http://store.saltsurf.com/products/122363780</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-single-fish"/>
+    <title>Salt Single Fin</title>
+    <s:type>Surfboards</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/salt-single-fish.jpg?v=1361317462" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Surfboards<br />
+            <strong>Price: </strong>
+              540.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>This board is based off of a classic fish shape but with a few new twists.  Its chopped off tail and single fin setup will give your surfing a new edge.</p>
+
+<p>Includes a FCS fluid foil EZI Trim 7.0 Single Fin</p>
+<p><strong>Available in a variety of sizes</strong><br />
+</p>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/122363780</id>
+      <title>SALT Single Fin</title>
+      <s:price currency="USD">540.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/123394834</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-classic-long"/>
+    <title>SALT Classic Long</title>
+    <s:type>Surfboards</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/longboard_product_view.jpg?v=1361907429" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Surfboards<br />
+            <strong>Price: </strong>
+              630.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>This board is inspired by many classic longboard shapes. A great board for those that appreciate the classic tradition of surfboarding, and also a great board for beginners.</p>
+<p>This board is meant to be ridden in the 7ft- 9ft+ range. &nbsp;Price&nbsp;varies&nbsp;from $630- $760 depending on the length of the board.</p>
+<p>Includes a FCS longboard fin, and a pair of FCS GX side fins.</p>
+<p><strong>Available in a variety of sizes</strong></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/123394834</id>
+      <title>SALT Classic Long</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/123395148</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-long"/>
+    <title>SALT Long</title>
+    <s:type>Surfboards</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/long-pin.jpg?v=1361907670" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Surfboards<br />
+            <strong>Price: </strong>
+              580.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div>
+  <p>This board shines when the waves don't. The Salt Long is the perfect mix between a longboard and a shortboard, giving you stability without compromising maneuverability. This board is just right!</p>
+  <p>Includes FCS M5 fins</p>
+  <p><strong>Available in a variety of sizes</strong><br />
+  </p>
+</div>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/123395148</id>
+      <title>SALT Long</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/123395450</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-mod-fish"/>
+    <title>SALT Mod Fish</title>
+    <s:type>Surfboards</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/mod-fish.jpg?v=1361907830" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Surfboards<br />
+            <strong>Price: </strong>
+              560.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div>
+  <p>This board is our take on the classic fish design. This board is pure fun and stylish all around!&nbsp;</p>
+  <p>Includes a set of M-5 and GX FCS fins for a Quad setup.</p>
+  <div><strong>Available in a variety of sizes</strong><br />
+  </div>
+</div>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/123395450</id>
+      <title>SALT Mod Fish</title>
+      <s:price currency="USD">560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/123396338</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-swallow-tail"/>
+    <title>SALT Swallow Tail</title>
+    <s:type>Surfboards</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/swallow_product_view.jpg?v=1361908206" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Surfboards<br />
+            <strong>Price: </strong>
+              520.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div>
+  <p>This board has bite. Super responsive, and incredibly swift, this board puts you in control. It has some of the looseness of a fish, with the agility of a thruster.</p>
+  <p>Includes a set of M-5 FCS fins.</p>
+</div>
+<p><strong></strong><strong>Available in a variety of sizes</strong><br />
+</p>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/123396338</id>
+      <title>SALT Swallow Tail</title>
+      <s:price currency="USD">520.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/123396572</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/salt-mod-short"/>
+    <title>SALT Mod Short</title>
+    <s:type>Surfboards</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/mod-short.jpg?v=1361908285" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Surfboards<br />
+            <strong>Price: </strong>
+              520.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><div></div>
+<div>
+  <p>This board is not your typical short board. With slightly wider and thicker dimensions this board allows you to shred on bigger waves, but also lets you take charge on those smaller/mushier days.</p>
+  <p>Recommended to be ridden 2"- 4" shorter than your normal shortboard.</p>
+  <p>Includes a set of M-5 FCS fins.</p>
+</div>
+<p><strong></strong><strong>Available in a variety of sizes</strong><br />
+</p>
+</td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/123396572</id>
+      <title>SALT Mod Short</title>
+      <s:price currency="USD">520.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

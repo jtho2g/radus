@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://store.saltsurf.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://store.saltsurf.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://store.saltsurf.com/collections/print.atom"/>
+  <title>SALT SURF</title>
+  <updated>2013-02-23T11:47:42-10:00</updated>
+  <author>
+    <name>SALT SURF</name>
+  </author>
+  <entry>
+    <id>http://store.saltsurf.com/products/125000824</id>
+    <published>2013-02-23T11:47:42-10:00</published>
+    <updated>2013-02-23T11:47:42-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/copy-of-monster-children-magazine-issue-38"/>
+    <title>Monster Children Magazine</title>
+    <s:type>Print</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Monster_Children_Issue_40_cover.jpg?v=1379940346" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Print<br />
+            <strong>Price: </strong>
+              9.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p> </p>
+<hr />
+<div>Monster Children Magazine.</div>
+<hr />
+<div><strong>Issue #40</strong></div>
+<div><strong>Issue #39 (SOLD OUT)</strong></div>
+<div><strong>Issue #38</strong></div>
+<div><strong>Issue #37</strong></div></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/125000824</id>
+      <title>Issue #38</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/125000824</id>
+      <title>Issue #37</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/125000824</id>
+      <title>Issue #39</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/125000824</id>
+      <title>Issue #40</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://store.saltsurf.com/products/128769857</id>
+    <published>2013-02-19T10:19:08-10:00</published>
+    <updated>2013-02-19T10:19:08-10:00</updated>
+    <link rel="alternate" type="text/html" href="http://store.saltsurf.com/products/desillusion-magazine-broke"/>
+    <title>Desillusion Magazine</title>
+    <s:type>Print</s:type>
+    <s:vendor>Salt</s:vendor>
+    <summary type="html">
+      <![CDATA[
+    <table border="0">
+      <tr>
+        <td width="200"><img width="200" src="http://cdn.shopify.com/s/files/1/0210/3380/products/Desillision_NOW.jpg?v=1374510854" /></td>
+        <td valign="bottom">
+          <p>
+            <strong>Vendor: </strong>Salt<br />
+            <strong>Type: </strong>Print<br />
+            <strong>Price: </strong>
+              12.00
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Issue 40: How Long is NOW<br /><br /></p></td>
+      </tr>
+    </table>
+
+]]>
+    </summary>
+    <s:tag>magazine</s:tag>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/128769857</id>
+      <title>Desillusion Magazine- To Go Broke</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://store.saltsurf.com/products/128769857</id>
+      <title>Desillusion Magazine- How Long is Now</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>
